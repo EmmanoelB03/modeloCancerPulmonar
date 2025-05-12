@@ -45,14 +45,14 @@ pip install -r requirements.txt
 
 -Abra modeloTesteDeCancerPulmao.ipynb no Jupyter Notebook, Google Colab ou VS Code e execute célula por célula.
 
-##📊 Dataset
+## 📊 Dataset
 
 O conjunto de dados utilizado está disponível no Kaggle:
 
 [Acesse o kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer)
 
 
-##📌 Observações
+## 📌 Observações
 
 -A classificação é feita com base em uma pequena quantidade de features, o que pode limitar a precisão do modelo.
 
