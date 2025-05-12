@@ -33,3 +33,32 @@ O notebook realiza as seguintes etapas:
 ```bash
 git clone https://github.com/EmmanoelB03/modeloCancerPulmonar.git
 cd seurepositorio
+```
+2. Instale as dependências:
+
+```bash
+https://github.com/EmmanoelB03/modeloCancerPulmonar/blob/main/requirements.txt
+pip install -r requirements.txt
+```
+
+3. Execute o notebook:
+
+-Abra modeloTesteDeCancerPulmao.ipynb no Jupyter Notebook, Google Colab ou VS Code e execute célula por célula.
+
+##📊 Dataset
+
+O conjunto de dados utilizado está disponível no Kaggle:
+
+[Acesse o kaggle](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer)
+
+
+##📌 Observações
+
+-A classificação é feita com base em uma pequena quantidade de features, o que pode limitar a precisão do modelo.
+
+-O modelo é meramente educacional e não deve ser utilizado para diagnósticos médicos reais.
+
+##📄 Licença - MIT
+
+Este projeto está licenciado sob os termos da [Licença MIT](https://github.com/EmmanoelB03/modeloCancerPulmonar/blob/main/LICENSE)).
+
