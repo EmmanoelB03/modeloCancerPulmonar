@@ -60,5 +60,5 @@ O conjunto de dados utilizado está disponível no Kaggle:
 
 ## 📄 Licença - MIT
 
-Este projeto está licenciado sob os termos da [Licença MIT](https://github.com/EmmanoelB03/modeloCancerPulmonar/blob/main/LICENSE)).
+Este projeto está licenciado sob os termos da [Licença MIT](https://github.com/EmmanoelB03/modeloCancerPulmonar/blob/main/LICENSE).
 
