@@ -58,7 +58,7 @@ O conjunto de dados utilizado está disponível no Kaggle:
 
 -O modelo é meramente educacional e não deve ser utilizado para diagnósticos médicos reais.
 
-##📄 Licença - MIT
+## 📄 Licença - MIT
 
 Este projeto está licenciado sob os termos da [Licença MIT](https://github.com/EmmanoelB03/modeloCancerPulmonar/blob/main/LICENSE)).
 
