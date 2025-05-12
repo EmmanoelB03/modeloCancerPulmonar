@@ -1,27 +1,35 @@
 # 🫁 Modelo de Predição de Câncer de Pulmão
+
 Este projeto tem como objetivo analisar dados de pacientes e aplicar técnicas de aprendizado de máquina para prever a presença de câncer de pulmão com base em variáveis como idade, histórico de tabagismo, dores no peito e ansiedade.
 
-📁 Sobre o Projeto
+## 📁 Sobre o Projeto
+
 O notebook realiza as seguintes etapas:
 
-Coleta de dados: download do dataset Lung Cancer Survey via kagglehub.
+- **Coleta de dados**: download do dataset [Lung Cancer Survey](https://www.kaggle.com/datasets/mysarahmadbhat/lung-cancer) via `kagglehub`.
+- **Pré-processamento e limpeza**:
+  - Conversão de variáveis categóricas para numéricas.
+  - Normalização da idade com `StandardScaler`.
+  - Identificação e remoção de outliers.
+- **Visualizações**:
+  - Gráficos de dispersão para análise exploratória.
+  - Visualização de clusters após agrupamento.
+- **Modelagem**:
+  - Algoritmo de agrupamento KMeans aplicado para segmentar os dados.
+  - Classificação utilizando Random Forest.
 
-Pré-processamento e limpeza:
+## 🧪 Tecnologias utilizadas
 
-Conversão de variáveis categóricas para numéricas.
+- Python 3
+- Pandas, NumPy
+- Matplotlib, Seaborn
+- Scikit-learn
+- KaggleHub (para download do dataset)
 
-Normalização da idade com StandardScaler.
+## 🚀 Como executar
 
-Identificação e remoção de outliers.
+1. Clone o repositório:
 
-Visualizações:
-
-Gráficos de dispersão para análise exploratória.
-
-Visualização de clusters após agrupamento.
-
-Modelagem:
-
-Algoritmo de agrupamento KMeans aplicado para segmentar os dados.
-
-Classificação utilizando Random Forest (mencionado mas não completamente mostrado nos trechos iniciais).
+```bash
+git clone https://github.com/seuusuario/seurepositorio.git
+cd seurepositorio
