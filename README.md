@@ -31,5 +31,5 @@ O notebook realiza as seguintes etapas:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seuusuario/seurepositorio.git
+git clone https://github.com/EmmanoelB03/modeloCancerPulmonar.git
 cd seurepositorio
